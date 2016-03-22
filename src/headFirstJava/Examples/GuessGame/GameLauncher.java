@@ -1,4 +1,4 @@
-package headFirstJava.Examples;
+package headFirstJava.Examples.GuessGame;
 
 public class GameLauncher { // page 64
 

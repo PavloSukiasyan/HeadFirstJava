@@ -1,4 +1,4 @@
-package headFirstJava.Examples;
+package headFirstJava.Examples.GuessGame;
 
 public class GuessGame { // page 63
 	
@@ -21,8 +21,7 @@ public class GuessGame { // page 63
 		
 		int targetNumber = (int) (Math.random() * 10);/*make a ‘target’ number that the players have to guess */
 		System.out.println("I'm thinking of a number betwen 0 and 9...");
-		System.out.println("Number to guess is - " + targetNumber);
-		
+		System.out.println("I have guessed number - " + targetNumber );
 		while (true) {
 			p1.guess();
 			p2.guess();

@@ -1,4 +1,4 @@
-package headFirstJava.Examples;
+package headFirstJava.Examples.GuessGame;
 
 public class Player {	// page 64
 	int number = 0;// where the guess goes
