@@ -34,7 +34,7 @@ public class SomeExamples {
 		
 		System.out.println (pets[0].name);
 		
-		int ls = 17; 
+		int ls = 19; 
 		int hls ;
 		if (ls%2 == 1) { // check for "pair" or "an odd" value
 			hls = ls / 2 + 1;
